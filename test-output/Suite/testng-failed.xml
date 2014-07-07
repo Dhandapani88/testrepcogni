@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="utility.Listener"/>
+  </listeners>
+  <test name="Random Test(failed)" parallel="none">
+    <classes>
+      <class name="testCases.Framework_001">
+        <methods>
+          <include name="main"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_001 -->
+      <class name="testCases.Framework_002">
+        <methods>
+          <include name="f"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testCases.Framework_002 -->
+    </classes>
+  </test> <!-- Random Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

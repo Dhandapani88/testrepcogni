@@ -1,0 +1,385 @@
+2014-04-22 14:45:41,741 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,742 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-04-22 14:45:41,742 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,743 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:42,302 INFO  [Log] Excel sheet opened 
+2014-04-22 14:45:42,302 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-04-22 14:45:59,257 INFO  [Log] New driver instantiated 
+2014-04-22 14:45:59,358 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 14:46:12,211 INFO  [Log] Web application launched successfully 
+2014-04-22 14:46:12,488 INFO  [Log] My Account link is found on the Home Page 
+2014-04-22 14:46:12,588 INFO  [Log] Click action is perfromed on My Account link 
+2014-04-22 14:46:17,885 INFO  [Log] Username text box is found on the Login Page 
+2014-04-22 14:46:17,956 INFO  [Log] testuser_1 is entered in UserName text box 
+2014-04-22 14:46:17,977 INFO  [Log] Password text box is found on the Login page 
+2014-04-22 14:46:18,039 INFO  [Log] Test@123 is entered in Password text box 
+2014-04-22 14:46:18,055 INFO  [Log] Submit button is found on the Login page 
+2014-04-22 14:46:18,715 INFO  [Log] Click action is performed on Submit button 
+2014-04-22 14:46:31,327 INFO  [Log] Log Out link is found on the Home Page 
+2014-04-22 14:46:31,574 INFO  [Log] Product category link is found under Top Navigation 
+2014-04-22 14:46:31,927 INFO  [Log] Accessories link is found under Product Category 
+2014-04-22 14:46:32,006 INFO  [Log] Click action is performed on the selected Product Type 
+2014-04-22 14:46:32,007 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2014-04-22 14:46:37,285 INFO  [Log] Add to Cart button is found for Product 2 
+2014-04-22 14:46:37,458 INFO  [Log] Product 2 is selected from the Product listing page 
+2014-04-22 14:46:38,517 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2014-04-22 14:46:41,771 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2014-04-22 14:46:41,824 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2014-04-22 14:46:41,860 INFO  [Log] Continue button is found on the Check Out Page 
+2014-04-22 14:46:41,957 INFO  [Log] Email text box on Payment Details page is found. 
+2014-04-22 14:46:43,029 INFO  [Log] Email text box on Payment Details page is found. 
+2014-04-22 14:46:43,108 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2014-04-22 14:46:43,126 INFO  [Log] First Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,201 INFO  [Log] First Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,356 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2014-04-22 14:46:43,366 INFO  [Log] Last Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,453 INFO  [Log] Last Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,560 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2014-04-22 14:46:43,568 INFO  [Log] Address text box on Payment Details page is found. 
+2014-04-22 14:46:43,756 INFO  [Log] Address text box on Payment Details page is found. 
+2014-04-22 14:46:44,151 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2014-04-22 14:46:44,162 INFO  [Log] City text box on Payment Details page is found. 
+2014-04-22 14:46:44,244 INFO  [Log] City text box on Payment Details page is found. 
+2014-04-22 14:46:44,393 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2014-04-22 14:46:44,509 INFO  [Log] Country dropdown on Payment Details page is found. 
+2014-04-22 14:46:44,570 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2014-04-22 14:46:44,633 INFO  [Log] Phone text box on Payment Details page is found. 
+2014-04-22 14:46:44,740 INFO  [Log] Phone text box on Payment Details page is found. 
+2014-04-22 14:46:44,868 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2014-04-22 14:46:44,876 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2014-04-22 14:46:44,890 INFO  [Log] Purchase button on Payment Details page is found. 
+2014-04-22 14:46:47,948 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2014-04-22 14:46:47,959 INFO  [Log] Product name is found on the Confirmation Page 
+2014-04-22 14:46:47,985 INFO  [Log] Product price is found on the Confirmation Page 
+2014-04-22 14:46:48,185 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-04-22 14:46:48,185 INFO  [Log] X 
+2014-04-22 14:46:48,185 INFO  [Log] X 
+2014-04-22 14:46:48,186 INFO  [Log] X 
+2014-04-22 14:46:48,186 INFO  [Log] X 
+2014-04-22 17:32:40,212 INFO  [Log] New driver instantiated 
+2014-04-22 17:32:40,227 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:32:58,881 INFO  [Log] Web application launched 
+2014-04-22 17:32:59,000 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:35:15,781 INFO  [Log] New driver instantiated 
+2014-04-22 17:35:15,799 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:35:33,430 INFO  [Log] Web application launched 
+2014-04-22 17:35:33,539 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:47:58,080 INFO  [Log] New driver instantiated 
+2014-04-22 17:47:58,101 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:48:15,116 INFO  [Log] Web application launched 
+2014-04-22 17:48:36,220 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:48:37,787 INFO  [Log] Username entered in the Username text box 
+2014-04-22 17:48:37,877 INFO  [Log] Password entered in the Password text box 
+2014-04-22 17:48:38,576 INFO  [Log] Click action performed on Submit button 
+2014-04-22 17:48:45,875 INFO  [Log] Click action performed on Log out link 
+2014-04-22 17:48:46,110 INFO  [Log] Browser closed 
+2014-07-04 17:14:37,548 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:14:37,548 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:14:37,548 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:14:37,548 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:14:37,548 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:17:52,257 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:17:52,257 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:17:52,257 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:17:52,257 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:17:52,257 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:18:32,331 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:18:32,331 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:18:32,331 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:18:32,331 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:18:32,331 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:18:33,051 INFO  [Log] Excel sheet opened 
+2014-07-04 17:18:33,051 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:18:33,121 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: VISTA
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'PC145284', ip: '10.252.76.192', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Driver info: driver.version: FirefoxDriver 
+2014-07-04 17:18:33,131 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:18:33,211 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2014-07-04 17:18:33,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:18:33,211 INFO  [Log] X 
+2014-07-04 17:18:33,211 INFO  [Log] X 
+2014-07-04 17:18:33,211 INFO  [Log] X 
+2014-07-04 17:18:33,211 INFO  [Log] X 
+2014-07-04 17:35:56,560 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:35:56,560 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:35:56,560 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:35:56,560 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:35:56,560 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:35:57,202 INFO  [Log] Excel sheet opened 
+2014-07-04 17:35:57,202 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:35:57,212 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:35:57,302 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2014-07-04 17:35:57,302 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:35:57,302 INFO  [Log] X 
+2014-07-04 17:35:57,302 INFO  [Log] X 
+2014-07-04 17:35:57,302 INFO  [Log] X 
+2014-07-04 17:35:57,302 INFO  [Log] X 
+2014-07-04 17:37:34,935 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:37:34,935 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:37:34,935 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:37:34,935 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:37:34,935 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:37:35,575 INFO  [Log] Excel sheet opened 
+2014-07-04 17:37:35,575 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:37:35,585 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:37:35,675 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2014-07-04 17:37:35,675 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:37:35,675 INFO  [Log] X 
+2014-07-04 17:37:35,675 INFO  [Log] X 
+2014-07-04 17:37:35,675 INFO  [Log] X 
+2014-07-04 17:37:35,675 INFO  [Log] X 
+2014-07-04 17:39:29,429 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:29,429 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:29,429 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:39:29,429 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:29,429 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:30,041 INFO  [Log] Excel sheet opened 
+2014-07-04 17:39:30,041 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:39:30,061 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:39:30,152 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2014-07-04 17:39:30,162 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:30,162 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:30,162 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:39:30,162 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:30,162 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:39:30,202 INFO  [Log] Excel sheet opened 
+2014-07-04 17:39:30,202 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:39:30,202 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:39:30,251 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2014-07-04 17:39:30,254 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:39:30,254 INFO  [Log] X 
+2014-07-04 17:39:30,254 INFO  [Log] X 
+2014-07-04 17:39:30,254 INFO  [Log] X 
+2014-07-04 17:39:30,254 INFO  [Log] X 
+2014-07-04 17:39:30,264 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:39:30,264 INFO  [Log] X 
+2014-07-04 17:39:30,264 INFO  [Log] X 
+2014-07-04 17:39:30,264 INFO  [Log] X 
+2014-07-04 17:39:30,264 INFO  [Log] X 
+2014-07-04 17:40:44,478 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:40:44,478 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:40:44,478 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:40:44,478 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:40:44,478 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:40:45,108 INFO  [Log] Excel sheet opened 
+2014-07-04 17:40:45,108 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:40:45,138 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:40:45,218 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2014-07-04 17:40:45,238 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:40:45,238 INFO  [Log] X 
+2014-07-04 17:40:45,238 INFO  [Log] X 
+2014-07-04 17:40:45,238 INFO  [Log] X 
+2014-07-04 17:40:45,238 INFO  [Log] X 
+2014-07-04 17:42:36,823 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:42:36,823 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:42:36,823 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 17:42:36,823 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:42:36,823 INFO  [Log] **************************************************************************************** 
+2014-07-04 17:42:37,493 INFO  [Log] Excel sheet opened 
+2014-07-04 17:42:37,493 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 17:42:40,414 INFO  [Log] New driver instantiated 
+2014-07-04 17:42:40,424 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-04 17:42:51,980 INFO  [Log] Web application launched successfully 
+2014-07-04 17:43:12,100 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-04 17:43:13,164 ERROR [Log] Unable to find element with xpath == .//*[@id='account']/a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'PC145284', ip: '10.252.76.192', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Session ID: 755f72ec-4148-4420-8f30-45f8a385f45b
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, enablePersistentHover=true, ignoreZoomSetting=false, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=9, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, handlesAlerts=true, initialBrowserUrl=http://localhost:28463/, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2014-07-04 17:43:13,184 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 17:43:13,184 INFO  [Log] X 
+2014-07-04 17:43:13,184 INFO  [Log] X 
+2014-07-04 17:43:13,184 INFO  [Log] X 
+2014-07-04 17:43:13,184 INFO  [Log] X 
+2014-07-04 18:27:16,128 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:27:16,128 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:27:16,128 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 18:27:16,128 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:27:16,128 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:27:16,758 INFO  [Log] Excel sheet opened 
+2014-07-04 18:27:16,758 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 18:27:20,495 INFO  [Log] New driver instantiated 
+2014-07-04 18:27:20,495 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-04 18:27:30,203 INFO  [Log] Web application launched successfully 
+2014-07-04 18:27:30,225 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 18:27:30,225 INFO  [Log] X 
+2014-07-04 18:27:30,225 INFO  [Log] X 
+2014-07-04 18:27:30,225 INFO  [Log] X 
+2014-07-04 18:27:30,225 INFO  [Log] X 
+2014-07-04 18:28:44,806 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:28:44,806 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:28:44,806 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 18:28:44,806 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:28:44,806 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:28:45,396 INFO  [Log] Excel sheet opened 
+2014-07-04 18:28:45,396 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 18:28:48,593 INFO  [Log] New driver instantiated 
+2014-07-04 18:28:48,613 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-04 18:28:56,811 INFO  [Log] Web application launched successfully 
+2014-07-04 18:28:56,956 INFO  [Log] Humana image link is found on the Home Page 
+2014-07-04 18:28:57,058 INFO  [Log] Footer logo is displayed 
+2014-07-04 18:28:57,071 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 18:28:57,071 INFO  [Log] X 
+2014-07-04 18:28:57,071 INFO  [Log] X 
+2014-07-04 18:28:57,071 INFO  [Log] X 
+2014-07-04 18:28:57,071 INFO  [Log] X 
+2014-07-04 18:32:39,152 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:32:39,152 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:32:39,152 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-04 18:32:39,152 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:32:39,152 INFO  [Log] **************************************************************************************** 
+2014-07-04 18:32:39,742 INFO  [Log] Excel sheet opened 
+2014-07-04 18:32:39,742 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-04 18:32:42,919 INFO  [Log] New driver instantiated 
+2014-07-04 18:32:42,919 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-04 18:32:50,545 INFO  [Log] Web application launched successfully 
+2014-07-04 18:32:50,725 INFO  [Log] Humana image link is found on the Home Page 
+2014-07-04 18:32:50,837 INFO  [Log] Footer logo is displayed 
+2014-07-04 18:32:50,860 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-04 18:32:50,860 INFO  [Log] X 
+2014-07-04 18:32:50,860 INFO  [Log] X 
+2014-07-04 18:32:50,860 INFO  [Log] X 
+2014-07-04 18:32:50,860 INFO  [Log] X 
+2014-07-07 10:50:02,825 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:02,845 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:02,845 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 10:50:02,845 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:02,845 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:03,485 INFO  [Log] Excel sheet opened 
+2014-07-07 10:50:03,485 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 10:50:06,898 INFO  [Log] New driver instantiated 
+2014-07-07 10:50:06,918 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-07 10:50:06,928 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to navigate to https://www.humana.com/. This usually means that a call to the COM method IWebBrowser2::Navigate2() failed. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'PC145284', ip: '10.252.76.192', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Session ID: 1b5b7c76-1edc-4bda-beb3-08f2214d09cc
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, enablePersistentHover=true, ignoreZoomSetting=false, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=9, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, handlesAlerts=true, initialBrowserUrl=http://localhost:48702/, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2014-07-07 10:50:24,942 ERROR [Log] Humana image link is not found on the Home Page 
+2014-07-07 10:50:25,242 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 230 milliseconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'PC145284', ip: '10.252.76.192', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Session ID: 1b5b7c76-1edc-4bda-beb3-08f2214d09cc
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, enablePersistentHover=true, ignoreZoomSetting=false, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=9, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, handlesAlerts=true, initialBrowserUrl=http://localhost:48702/, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2014-07-07 10:50:25,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 10:50:25,262 INFO  [Log] X 
+2014-07-07 10:50:25,262 INFO  [Log] X 
+2014-07-07 10:50:25,262 INFO  [Log] X 
+2014-07-07 10:50:25,262 INFO  [Log] X 
+2014-07-07 10:50:38,913 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:38,913 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:38,913 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 10:50:38,913 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:38,913 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:50:39,555 INFO  [Log] Excel sheet opened 
+2014-07-07 10:50:39,555 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 10:50:42,542 INFO  [Log] New driver instantiated 
+2014-07-07 10:50:42,552 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-07 10:51:14,084 INFO  [Log] Web application launched successfully 
+2014-07-07 10:51:14,224 INFO  [Log] Humana image link is found on the Home Page 
+2014-07-07 10:51:14,324 INFO  [Log] Footer logo is displayed 
+2014-07-07 10:51:14,334 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:51:14,334 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:51:14,334 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 10:51:14,334 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:51:14,334 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:51:14,364 INFO  [Log] Excel sheet opened 
+2014-07-07 10:51:14,364 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 10:51:34,540 ERROR [Log] My Acocunt link is not found on the Home Page 
+2014-07-07 10:51:35,532 ERROR [Log] Unable to find element with xpath == .//*[@id='account']/a (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.17 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'PC145284', ip: '10.252.76.192', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0'
+Session ID: 9e165e23-99c3-4a06-b811-951aaf956395
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, enablePersistentHover=true, ignoreZoomSetting=false, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=9, ie.usePerProcessProxy=false, cssSelectorsEnabled=true, ignoreProtectedModeSettings=false, requireWindowFocus=false, handlesAlerts=true, initialBrowserUrl=http://localhost:19746/, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}] 
+2014-07-07 10:51:35,532 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 10:51:35,532 INFO  [Log] X 
+2014-07-07 10:51:35,532 INFO  [Log] X 
+2014-07-07 10:51:35,532 INFO  [Log] X 
+2014-07-07 10:51:35,532 INFO  [Log] X 
+2014-07-07 10:51:35,572 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 10:51:35,572 INFO  [Log] X 
+2014-07-07 10:51:35,572 INFO  [Log] X 
+2014-07-07 10:51:35,572 INFO  [Log] X 
+2014-07-07 10:51:35,572 INFO  [Log] X 
+2014-07-07 10:52:00,502 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:52:00,502 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:52:00,502 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 10:52:00,502 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:52:00,502 INFO  [Log] **************************************************************************************** 
+2014-07-07 10:52:01,082 INFO  [Log] Excel sheet opened 
+2014-07-07 10:52:01,082 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 10:52:04,067 INFO  [Log] New driver instantiated 
+2014-07-07 10:52:04,067 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-07 10:52:30,337 INFO  [Log] Web application launched successfully 
+2014-07-07 10:52:30,497 INFO  [Log] Humana image link is found on the Home Page 
+2014-07-07 10:52:30,627 INFO  [Log] Footer logo is displayed 
+2014-07-07 10:52:30,637 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 10:52:30,637 INFO  [Log] X 
+2014-07-07 10:52:30,637 INFO  [Log] X 
+2014-07-07 10:52:30,637 INFO  [Log] X 
+2014-07-07 10:52:30,637 INFO  [Log] X 
+2014-07-07 11:08:30,537 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:08:30,537 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:08:30,537 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 11:08:30,537 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:08:30,537 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:08:31,117 INFO  [Log] Excel sheet opened 
+2014-07-07 11:08:31,117 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 11:08:34,322 INFO  [Log] New driver instantiated 
+2014-07-07 11:08:34,332 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-07 11:08:41,956 INFO  [Log] Web application launched successfully 
+2014-07-07 11:08:42,218 INFO  [Log] Humana Footer link is found on the Home Page 
+2014-07-07 11:08:42,218 INFO  [Log] Humana Footer link is found on the Home Page 
+2014-07-07 11:08:42,338 INFO  [Log] Footer logo is displayed 
+2014-07-07 11:08:42,356 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 11:08:42,356 INFO  [Log] X 
+2014-07-07 11:08:42,356 INFO  [Log] X 
+2014-07-07 11:08:42,356 INFO  [Log] X 
+2014-07-07 11:08:42,356 INFO  [Log] X 
+2014-07-07 11:11:33,389 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:11:33,389 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:11:33,389 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 11:11:33,389 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:11:33,389 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:11:33,979 INFO  [Log] Excel sheet opened 
+2014-07-07 11:11:33,979 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 11:11:37,260 INFO  [Log] New driver instantiated 
+2014-07-07 11:11:37,270 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-07 11:11:49,977 INFO  [Log] Web application launched successfully 
+2014-07-07 11:11:50,929 INFO  [Log] Click action is performed on the selected Product Type 
+2014-07-07 11:11:50,929 INFO  [Log] Humana Footer link is found on the Home Page 
+2014-07-07 11:11:50,929 INFO  [Log] Humana Footer link is found on the Home Page 
+2014-07-07 11:11:51,159 INFO  [Log] Footer  is displayed 
+2014-07-07 11:11:51,187 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 11:11:51,187 INFO  [Log] X 
+2014-07-07 11:11:51,187 INFO  [Log] X 
+2014-07-07 11:11:51,187 INFO  [Log] X 
+2014-07-07 11:11:51,187 INFO  [Log] X 
+2014-07-07 11:30:09,706 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:30:09,706 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:30:09,706 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-07-07 11:30:09,706 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:30:09,706 INFO  [Log] **************************************************************************************** 
+2014-07-07 11:30:10,306 INFO  [Log] Excel sheet opened 
+2014-07-07 11:30:10,306 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-07-07 11:30:13,445 INFO  [Log] New driver instantiated 
+2014-07-07 11:30:13,455 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-07-07 11:30:20,941 INFO  [Log] Web application launched successfully 
+2014-07-07 11:30:21,704 INFO  [Log] Humana Footer link is found on the Home Page 
+2014-07-07 11:30:21,899 INFO  [Log] Footer  is displayed 
+2014-07-07 11:30:21,916 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-07-07 11:30:21,916 INFO  [Log] X 
+2014-07-07 11:30:21,916 INFO  [Log] X 
+2014-07-07 11:30:21,916 INFO  [Log] X 
+2014-07-07 11:30:21,916 INFO  [Log] X 
